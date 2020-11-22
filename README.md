@@ -17,7 +17,7 @@
   geolocator: ^6.1.4  
   
 # database
-  using sqlflite database to save user data 
+  using sqlflite database to save user data   
   using firebase for product database and authentication
 
 # design pattern 
