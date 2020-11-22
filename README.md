@@ -1,5 +1,5 @@
 ## Shopping app
-<img src="screen shot from shopping app screen shots/1.jpg" alt="1" height="300"/> <img src="screen shot from app/2.jpg" alt="2" height="300"/> <img src="screen shot from app/3.jpg" alt="3" height="300"/> <img src="screen shot from app/4.jpg" alt="4" height="300"/> <img src="screen shot from app/5.jpg" alt="5" height="300"/> <img src="screen shot from app/6.jpg" alt="6" height="300"/> 
+<img src="shopping%20app%20screen%20shots/1.jpg" alt="1" height="300"/> <img src="screen shot from app/2.jpg" alt="2" height="300"/> <img src="screen shot from app/3.jpg" alt="3" height="300"/> <img src="screen shot from app/4.jpg" alt="4" height="300"/> <img src="screen shot from app/5.jpg" alt="5" height="300"/> <img src="screen shot from app/6.jpg" alt="6" height="300"/> 
 
 # Installation
 [Shopping app for android](https://github.com/mano1997max/qurank_hyatek_app/tree/master/quran%20for%20android) 
