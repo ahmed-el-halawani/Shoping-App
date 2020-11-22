@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434351769991",
+    "firebase_url": "https://clothesapp-c06fc.firebaseio.com",
+    "project_id": "clothesapp-c06fc",
+    "storage_bucket": "clothesapp-c06fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434351769991:android:7d36813a4fb7a72fb56b22",
+        "android_client_info": {
+          "package_name": "com.agx.clothes_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434351769991-rv9h5apaakpsbcktuo48hpe5f2bmbiao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzYHCSRV9HHJMtu20RQYC_h0rqBXWhBpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434351769991-rv9h5apaakpsbcktuo48hpe5f2bmbiao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
